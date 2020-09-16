@@ -11,7 +11,7 @@ namespace CSharp
     {
         public delegate void Print(int value);
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Print print = delegate (int val)
             {
