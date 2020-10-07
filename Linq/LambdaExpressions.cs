@@ -9,7 +9,7 @@ namespace CSharp.Linq
 {
     public class LambdaExpressions
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             AnonymousMethodEx();
             LambdaExpressionsEx();
